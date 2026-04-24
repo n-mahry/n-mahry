@@ -76,7 +76,7 @@ fun_fact:   "i name all my VMs after flowers 🌷"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=c9699e)](https://linkedin.com/in/n-mahry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=c9699e)](https://linkedin.com/in/nawraali)
 [![GitHub](https://img.shields.io/badge/GitHub-FFD6E7?style=for-the-badge&logo=github&logoColor=c9699e)](https://github.com/n-mahry)
 
 </div>
